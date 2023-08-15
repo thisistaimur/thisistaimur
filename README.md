@@ -21,4 +21,4 @@ I'm Taimur, a passionate Geoscientist and Physicist with an insatiable curiosity
 
 🌱 Open to collaborations on exciting projects at the intersection of geosciences, physics, and technology.  
 💬 Feel free to reach out for discussions, brainstorming, or simply a virtual chat.  
-📫 [How to reach me: [LinkedIn](https://www.linkedin.com/in/taimur-h-khan/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/taimur-h-khan/)
