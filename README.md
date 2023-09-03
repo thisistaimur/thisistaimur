@@ -1,6 +1,4 @@
-## Salam! 👋
-
-I'm Taimur, a passionate Geoscientist and Physicist with an insatiable curiosity for the natural world and a knack for turning data into insights. Welcome to my GitHub, where I bridge the realms of Earth sciences, numerical modeling, backend technologies, web computation, and data science.
+Welcome to my GitHub, where I bridge the realms of Earth sciences, numerical modeling, backend technologies, web computation, and data science.
 
 ### About Me
 
