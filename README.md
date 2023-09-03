@@ -1,4 +1,4 @@
-Welcome to my GitHub, where I bridge the realms of Earth sciences, numerical modeling, backend technologies, web computation, and data science.
+Welcome to my GitHub, where I bridge the realms of earth sciences, numerical modeling, backend technologies, web computation, and data science.
 
 ### About Me
 
