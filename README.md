@@ -2,8 +2,8 @@ Welcome to my GitHub, where I bridge the realms of earth sciences, numerical mod
 
 ### About Me
 
-🌎 Academic Background: Geosciences and Physics  
-🔬 Research Enthusiast: Unraveling Earth's secrets through numerical models  
+🌎 Academic Background: Geosciences and Physics (Undergraduate) + Earth System Data Sience and Remote Sensing (Graduate)
+🔬 Research Enthusiast: Unraveling Earth's secrets through numerical and statistical models  
 💻 Backend Devotee: Crafting robust and efficient systems  
 🌐 Web Wizard: Translating complex computations into user-friendly interfaces  
 📊 Data Whisperer: Transforming raw data into meaningful stories  
@@ -17,6 +17,6 @@ Welcome to my GitHub, where I bridge the realms of earth sciences, numerical mod
 
 ### Let's Collaborate!
 
-🌱 Open to collaborations on exciting projects at the intersection of geosciences, physics, and technology.  
+🌱 Open to collaborations on exciting projects at the intersection of geosciences, physics, remote sensing and technology.  
 💬 Feel free to reach out for discussions, brainstorming, or simply a virtual chat.  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/taimur-h-khan/)
