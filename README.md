@@ -1,22 +1,14 @@
-Welcome to my GitHub, where I bridge the realms of earth sciences, numerical modeling, backend technologies, web computation, and data science.
+### 👋 Welcome earthling 
 
-### About Me
+🌍 **Data Scientist** | **Remote Sensing Specialist** | **Environmental Modeller**
 
-🌎 Academic Background: Geosciences and Physics (Undergraduate) + Earth System Data Sience and Remote Sensing (Graduate)
-🔬 Research Enthusiast: Unraveling Earth's secrets through numerical and statistical models  
-💻 Backend Devotee: Crafting robust and efficient systems  
-🌐 Web Wizard: Translating complex computations into user-friendly interfaces  
-📊 Data Whisperer: Transforming raw data into meaningful stories  
+🛰️ Currently advancing **Earth Observation & Machine Learning at Helmholtz-UFZ**
 
-### What's Cookin'
+📚 Pursuing an **M.Sc. in Earth System Data Science and Remote Sensing at Leipzig University**
 
-📚 Currently delving into the depths of numerical modeling techniques to simulate Earth's dynamic processes via Digital Twins.  
-🔧 Building sophisticated backend systems that power cutting-edge scientific applications.  
-🌐 Creating interactive web experiences that bring computational geoscience to the masses.  
-📈 Taming complex datasets to reveal patterns, trends, and insights that inspire change.
+⚡ Passionate about leveraging AI, remote sensing, and high-performance computing to tackle global environmental challenges. 
 
-### Let's Collaborate!
+🌟 Let’s connect!
 
-🌱 Open to collaborations on exciting projects at the intersection of geosciences, physics, remote sensing and technology.  
-💬 Feel free to reach out for discussions, brainstorming, or simply a virtual chat.  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/taimur-h-khan/)
+📧 [Email](mailto:taimur.khan@ufz.de) | 🔗 [LinkedIn](https://www.linkedin.com/in/taimur-h-khan/)
+
