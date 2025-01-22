@@ -1,6 +1,6 @@
 ### 👋 Welcome earthling 
 
-🌍 **Data Scientist** | **Remote Sensing Specialist** | **Environmental Innovator**
+🌍 **Data Scientist** | **Remote Sensing Specialist**
 
 🛰️ Currently advancing **Earth Observation & Machine Learning at Helmholtz-UFZ**
 
