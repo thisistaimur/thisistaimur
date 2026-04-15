@@ -9,5 +9,5 @@
 
 🌟 Let’s connect!
 
-📧 [Email](mailto:taimur.khan@ufz.de) | 🔗 [LinkedIn](https://www.linkedin.com/in/taimur-h-khan/)
+📧 [Email](mailto:taimur.khan@ufz.de) 
 
