@@ -1,12 +1,11 @@
-### 👋 Welcome earthling 
 
-🌍 **Data Scientist** | **Remote Sensing Specialist**
+🌍 **Data Science** | **Web Dev** | **High Performance Computing** | **Computer Vision**
 
-🛰️ Currently advancing **Earth Observation & Machine Learning at Helmholtz-UFZ**
+🛰️ Currently advancing **Earth Observation & Machine Learning at Helmholtz Centre for Environmental Research - UFZ**
 
-📚 Pursuing an **M.Sc. in Earth System Data Science and Remote Sensing at Leipzig University**
+⚡ Passionate about leveraging AI, remote sensing, and high-performance computing to tackle environmental challenges. 
 
-⚡ Passionate about leveraging AI, remote sensing, and high-performance computing to tackle global environmental challenges. 
+👨🏻‍✈️ I am also a UAV pilot with a focus on drone automation and actuation.
 
 🌟 Let’s connect!
 
