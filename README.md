@@ -1,5 +1,5 @@
 
-🌍 **Data Science** | **Web Dev** | **High Performance Computing** | **Computer Vision**
+🌍 **Data Science** | **High Performance Computing** | **Computer Vision** | **Web Dev** 
 
 🛰️ Currently advancing **Earth Observation & Machine Learning at Helmholtz Centre for Environmental Research - UFZ**
 
